@@ -61,6 +61,11 @@
 - **React Native**: Facebook推出基于React的跨平台移动应用开发框架，利用JavaScript编写原生应用。
 - **Flutter (Dart)**: Google推出的跨平台移动应用开发框架，使用Dart语言编写高性能、高保真UI。
 
+### 桌面应用程序框架
+
+- **Electron**: 基于Chromium与Node.js的跨平台桌面应用开发框架，让开发者使用HTML/CSS/JS构建原生桌面应用程序。
+- **Tauri**: 轻量、快速、安全的跨平台GUI框架，结合Web前端技术与Rust后端，为创建小型、高性能桌面应用提供解决方案。
+
 ### 编译器
 
 - **Babel**: JavaScript编译器，将ES6+代码转译为向后兼容的JavaScript版本，支持polyfills、语法转换等。
